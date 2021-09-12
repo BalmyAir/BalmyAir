@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-💻 Senior of CSE at KOREATECH Univ <br/>
 😎 C++ / Python / ROS / Pytorch <br/>
 🦁 Programmers self-driving Dev course 2th Member <br/>
 
