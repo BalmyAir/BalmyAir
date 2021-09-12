@@ -9,7 +9,7 @@
 📘 [My Blog](https://velog.io/@hong7511059)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BalmyAir)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Do-ho&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BalmyAir&layout=compact)
 
 <!--
 **BalmyAir/BalmyAir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
