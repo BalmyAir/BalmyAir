@@ -4,6 +4,19 @@
 😎 C++ / Python / ROS / Pytorch <br/>
 🦁 Programmus self-driving Dev course 2th Member <br/>
 
+### Interest
+- Deep learning accelerating in embedded board
+- Lightweight deep learning
+- Perception in Self-Driving filed
+- Docker
+
+
+### Project
+- Autonomous driving Selling robot (graduation project)
+- Autonomous Mobile robot (with TAEYANG METAL INDUSTRIAL CO.)
+- HYUNDAI Autonomous Vehicle Competition (preliminary match - I did classification in simulation)
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BalmyAir)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BalmyAir&layout=compact)
 
