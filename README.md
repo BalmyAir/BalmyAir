@@ -1,12 +1,8 @@
 ### Hi there 👋
 
 💻 Senior of CSE at KOREATECH Univ <br/>
-😎 JavaScript / TypeScript / ReactJS / Django / Python / Node.js <br/>
-🦁 Like Lion 7th Member / 8th represented staff <br/>
-👨 DevelUp Excellent Mentor <br/>
-😃 Startup internship in Gallary-Via <br/>
-📚 2020 NAVER Connect Foundation boostcamper <br/>
-📘 [My Blog](https://velog.io/@hong7511059)
+😎 C++ / Python / ROS / Pytorch <br/>
+🦁 Programmus self-driving Dev course 2th Member <br/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BalmyAir)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BalmyAir&layout=compact)
