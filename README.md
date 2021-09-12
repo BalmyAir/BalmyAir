@@ -15,7 +15,7 @@
 - Autonomous Mobile robot with TAEYANG METAL INDUSTRIAL CO. (SLAM & Path generation)
 - [preliminary match] HYUNDAI Autonomous Vehicle Competition (classification in simulation)
 
-<img width="80%" src="https://user-images.githubusercontent.com/28466529/132978352-73eb009b-1f16-4285-855c-cc44d08d70cb.jpg"/>
+<img width="30%" height = "30%" src="https://user-images.githubusercontent.com/28466529/132978352-73eb009b-1f16-4285-855c-cc44d08d70cb.jpg"/>
 
 
 
