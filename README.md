@@ -11,7 +11,7 @@
 
 
 ### Project
-- Autonomous driving Selling robot (graduation project)
+- [Graduation project] Autonomous driving Selling robot (Path generation & segmentation)
 - Autonomous Mobile robot with TAEYANG METAL INDUSTRIAL CO. (SLAM & Path generation)
 - [preliminary match] HYUNDAI Autonomous Vehicle Competition (classification in simulation)
 
