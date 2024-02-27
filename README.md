@@ -1,4 +1,4 @@
-### Hi I'm BalmyAir 👋
+### Hi I'm Sangwon Choi 👋
 
 🦁 Programmers self-driving Dev course 2th Member <br/>
 
